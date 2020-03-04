@@ -1,6 +1,6 @@
 # mountain-car-continuous
 
-Projet d'apprentissage par renforcement réalisé lors de mon master.
+Projet d'apprentissage par renforcement réalisé lors de mon master Intelligence Artificielle et Apprentissage Automatique (Aix-Marseille Université) en paralèlle de mes études à l'École Centrale Marseille.
 
 ## Objectifs
 
@@ -15,9 +15,7 @@ Il faut parvenir à faire monter la voiture en haut de la colline en utilisant l
 
 Les deux agents parviennent régulièrement à résoudre le problème avec plus ou moins de régularité.
 
-
 L'agent SARSA obtient un reward moyen de 72.
-
 L'agent Q-learning obtient un reward moyen de 91.
 
 Empiriquement, les meilleurs rewards atteints étaient toujours inférieurs à 97.
