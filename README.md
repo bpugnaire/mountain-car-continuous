@@ -6,6 +6,7 @@ Projet d'apprentissage par renforcement réalisé lors de mon master Intelligenc
 
 - Concevoir des agents SARSA et Q-learning afin de résoudre le problème 'MountainCarContinuous" du module gym d'openAI (https://gym.openai.com/envs/MountainCarContinuous-v0/).
 - Comparer les performances des agents entre eux et pour un nombre d'états et/ou d'actions variable
+- Comparer l'impact de la politique d'exploration (epsilon-greedy avec epsilon fixe ou décroissant exponentiellement ou arithmétiquement).
 
 ## Le Problème
 
